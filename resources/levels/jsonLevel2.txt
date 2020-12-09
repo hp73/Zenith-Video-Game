@@ -1,0 +1,10 @@
+{
+   "worldSize" : [400, 256],
+   "starthalcyon" : [50,100],
+   "background": "3",
+   "door" : [0,0],
+   "NPC" : [250,100],
+   "house": [],
+   "houseBack" : [],
+   "brush" : []
+}            
