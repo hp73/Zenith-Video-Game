@@ -1,3 +1,6 @@
+Zenith
+By: Harry Pinkerton
+Requirements: python 3.7, pygame 1.9.6
 =========================
  INTRODUCTION
 =========================
