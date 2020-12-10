@@ -1,4 +1,5 @@
 Zenith
+Fall 2020
 By: Harry Pinkerton
 Requirements: python 3.7, pygame 1.9.6
 *Run main.py to play the game!*
